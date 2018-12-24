@@ -88,6 +88,28 @@
 
 [Multiply 2-digit numbers](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/multiplication_3)
 
+### Comparing with multiplication
+
+[Comparing with multiplication: basics](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/comparing-with-multiplication-exercise)
+
+[Comparing with multiplication: giraffe](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/comparisons-multiplication-addition)
+
+[Comparing with multiplication: money](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/comparisons-subtraction-division)
+
+[Comparing with multiplication: age](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/multiplying-whole-numbers-and-applications-6)
+
+[Comparing with multiplication: magic](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/multiplication-and-division-word-problems-2)
+
+#### Exercises
+
+[Compare with multiplication](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/comparing-with-multiplication)
+
+[Compare with multiplication word problems](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/multiplicative-comparison-word-problems)
+
+### Quiz 2
+
+[Multiplication and division](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/quiz/cc-4th-mult-comparing-quiz)
+
 Fractions
 Decimals
 Measurement and data
