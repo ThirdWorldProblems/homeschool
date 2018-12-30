@@ -5,7 +5,7 @@
 * https://www.youtube.com/watch?v=m13Jrk-cUmo
 
 
-How computers work
+[How computers work](https://github.com/ThirdWorldProblems/homeschool/blob/master/how-computers-work.md)
 
 
 ## Binary
