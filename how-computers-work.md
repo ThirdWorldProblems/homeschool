@@ -15,3 +15,11 @@
 ## Boolean Logic & Logic Gates
 
 * https://www.youtube.com/watch?v=gI-qXk7XojA
+
+## Transistors
+
+* [How transistors work](https://www.youtube.com/watch?v=WhNyURBiJcU)
+
+## Circuits & Logic
+
+* https://www.youtube.com/watch?v=Sc3lh3D4rCw
