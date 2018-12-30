@@ -16,5 +16,4 @@
 ## ASCII
 
 * https://www.youtube.com/watch?v=UPlR4eMMCmI
-
-[Computerphile on ASCII, UTF-8, and Unicode](https://www.youtube.com/watch?v=MijmeoH9LT4)
+* [Computerphile on ASCII, UTF-8, and Unicode](https://www.youtube.com/watch?v=MijmeoH9LT4)
