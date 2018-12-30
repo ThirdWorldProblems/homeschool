@@ -15,6 +15,7 @@
 ## Boolean Logic & Logic Gates
 
 * https://www.youtube.com/watch?v=gI-qXk7XojA
+* [Logic Gates with Dominoes](https://www.youtube.com/watch?v=lNuPy-r1GuQ)
 
 ## Transistors
 
