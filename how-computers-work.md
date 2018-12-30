@@ -3,6 +3,7 @@
 ## CPU, Memory, Input & Output
 
 * https://www.youtube.com/watch?v=MMzdKTtUIFM
+* [Inside the CPU](https://www.youtube.com/watch?v=IAkj32VPcUE)
 
 ## Hardware and Software
 
