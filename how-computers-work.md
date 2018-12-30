@@ -23,3 +23,7 @@
 ## Circuits & Logic
 
 * https://www.youtube.com/watch?v=Sc3lh3D4rCw
+
+## The Central Processing Unit
+
+* https://www.youtube.com/watch?v=FZGugFqdr60
