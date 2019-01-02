@@ -21,3 +21,11 @@
 ## Bits, Bytes And Bobs
 
 * [Bits, Bytes, Kilobytes, Megabytes, Gigabytes, Terabytes](https://www.youtube.com/watch?v=HRmfXA4EUBs)
+
+8 BITS in a BYTE
+* 1000 BYTES in a KILOBYTE(KB) 
+* 1000 KILOBYTES in a MEGABYTE(MB) 
+* 1000 MEGABYTES in a GIGABYTE(GB) 
+* 1000 GIGABYTES in a TERABYTE(TB) 
+
+* Actually 1024 to be exact ;)
