@@ -4,6 +4,7 @@
 
 * https://www.youtube.com/watch?v=MMzdKTtUIFM
 * [Inside the CPU](https://www.youtube.com/watch?v=IAkj32VPcUE)
+* [How Computer Memory Works](https://www.youtube.com/watch?v=p3q5zWCw8J4)
 
 ## Hardware and Software
 
