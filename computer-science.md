@@ -20,7 +20,7 @@
 
 ## Bits, Bytes And Bobs
 
-* [Bits, Bytes, Kilobytes, Megabytes, Gigabytes, Terabytes](https://www.youtube.com/watch?v=HRmfXA4EUBs)
+[Bits, Bytes, Kilobytes, Megabytes, Gigabytes, Terabytes](https://www.youtube.com/watch?v=HRmfXA4EUBs)
 
 * 8 BITS in a BYTE
 * \* 1000 BYTES in a KILOBYTE(KB) 
