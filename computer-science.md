@@ -17,3 +17,7 @@
 
 * https://www.youtube.com/watch?v=UPlR4eMMCmI
 * [Computerphile on ASCII, UTF-8, and Unicode](https://www.youtube.com/watch?v=MijmeoH9LT4)
+
+## Bits, Bytes And Bobs
+
+* [Bits, Bytes, Kilobytes, Megabytes, Gigabytes, Terabytes](https://www.youtube.com/watch?v=HRmfXA4EUBs)
