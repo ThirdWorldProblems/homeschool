@@ -29,3 +29,5 @@
 * \* 1000 GIGABYTES in a TERABYTE(TB) 
 
 \* Actually 1024 to be exact ;)
+
+## [Algorithms](https://github.com/ThirdWorldProblems/homeschool/blob/master/algorithms.md)
