@@ -152,6 +152,50 @@
 
 [Multiplication and division](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/quiz/cc-4th-division-quiz)
 
+### Remainders
+
+[Intro to remainders](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/introduction-to-remainders)
+
+[Understanding remainders](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/a/understanding-remainders)
+
+[Interpreting remainders](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/a/interpreting-remainders)
+
+[Worked example: Long division with remainders: 3771÷8](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/long-division-with-remainder-example)
+
+[Worked example: Long division with remainders: 2292÷4](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/division-3-more-long-division-and-remainder-examples)
+
+#### Exercises
+
+[Intro to remainders](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/understanding-remainders)
+
+[Divide with remainders (basic)](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/division-with-remainders-1)
+
+[Divide with remainders](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/division_2)
+
+### Multiplication, division word problems
+
+[Division word problem: field goals](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/multi-step-word-problems-with-whole-numbers-exercise-1)
+
+[Multiplication word problem: pizza](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/multi-step-word-problems-with-whole-numbers-exercise-t2)
+
+#### Exercises
+
+[Multiplication and division word problems](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/arithmetic_word_problems)
+
+[Multi-step estimation word problems](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/multi-step-estimation-word-problems)
+
+[Represent multi-step word problems using equations](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/represent-multi-step-word-problems-using-equations)
+
+[Multi-step word problems with whole numbers](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/multi-step-word-problems-with-whole-numbers)
+
+### Quiz 4
+
+[Multiplication and division](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/quiz/cc-4th-multistep-word-problems-quiz)
+
+### Unit test
+
+[Multiplication and division](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/test/cc-4th-mult-div-topic-unit-test)
+
 Fractions
 Decimals
 Measurement and data
