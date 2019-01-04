@@ -110,6 +110,48 @@
 
 [Multiplication and division](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/quiz/cc-4th-mult-comparing-quiz)
 
+### Division problems that work out nicely
+
+[Quotients that are multiples of 10](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/quotients-that-are-multiples-of-10)
+
+[Canceling zeros when dividing](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/canceling-zeros-when-dividing)
+
+#### Exercises
+
+[Quotients that are multiples of 10](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/quotients-that-are-multiples-of-10)
+
+[Take unit test to level up!](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/cancelling-zeros-in-division)
+
+### Division: place value and area
+
+[Division using place value](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/division-using-understanding-of-place-value)
+
+[Division with area models](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/area-models-to-visualize-division-using-place-value)
+
+#### Exercises
+
+[Divide using place value](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/division-using-place-value-understanding)
+
+[Divide by 1-digit numbers (visual models)](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/multi-digit-division-with-visual-models)
+
+### Multi-digit division
+
+[Intro to long division (no remainders)](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/long-division-without-remainder)
+
+[Long division: 280÷5](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/v/dividing-3-digit-by-1-digit-without-remainder)
+
+#### Exercises
+
+[Divide by 1-digit numbers (no remainders)](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/division_1.5)
+
+[Zeros in the dividend (no remainders)](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/zeros-in-the-dividend-no-remainders)
+
+[Zeros in the quotient (no remainders)](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/e/zeros-in-the-quotient-no-remainders)
+
+### Quiz 3
+
+[Multiplication and division](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/quiz/cc-4th-division-quiz)
+
 Fractions
 Decimals
 Measurement and data
