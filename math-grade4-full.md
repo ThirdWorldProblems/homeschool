@@ -196,7 +196,46 @@
 
 [Multiplication and division](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/modal/test/cc-4th-mult-div-topic-unit-test)
 
-Fractions
+## Fractions
+
+### Equivalent fractions
+
+[Intro to equivalent fractions](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/v/equivalent-amount-of-pizza)
+
+[Visualizing equivalent fractions](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/v/visualizing-equivalent-fractions)
+
+[Visualizing equivalent fractions review](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/a/equivalent-fractions-review)
+
+[More on equivalent fractions](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/v/more-equivalent-fractions)
+
+[Equivalent fractions and different wholes](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/v/comparing-fractions-of-different-wholes-2)
+
+#### Exercises
+
+[Equivalent fractions (fraction models)](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/e/visualizing-equivalent-fractions)
+
+[Equivalent fractions](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/e/equivalent_fractions)
+
+[Equivalent fractions and different wholes](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/e/different-wholes)
+
+### Common denominators
+
+[Finding common denominators](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/v/finding-common-denominators)
+
+[Common denominators: 1/4 and 5/6](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/v/common-denominators-14-and-56)
+
+[Common denominators: 3/5 and 7/2](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/v/common-denominators-35-and-72)
+
+[Common denominators review](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/a/common-denominators-review)
+
+#### Exercises
+
+[Common denominators](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/e/common-denominators)
+
+### Quiz 1
+
+[Fractions](https://www.khanacademy.org/math/cc-fourth-grade-math/cc-4th-fractions-topic/modal/quiz/cc-5th-common-denominators-quiz)
+
 Decimals
 Measurement and data
 Geometry
